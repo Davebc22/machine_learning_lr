@@ -7,7 +7,7 @@
 <h3>What to Expect</h3>
 
 <p>Our Jupyter notebooks cover a wide range of topics related to machine learning, and all of them are inspired from the 
-Machine Learning y Data Science course in Coursera  to:</p>
+Machine Learning y Data Science course in Coursera </p>
 
 
 
