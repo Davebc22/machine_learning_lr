@@ -10,11 +10,6 @@
 Machine Learning y Data Science course in Coursera </p>
 
 
-
-<h3>How to Use</h3>
-
-<p>To make the most of this repository, simply dive into the Jupyter notebooks, follow the provided instructions, and retrieve what you need from it!</p>
-
 <p>I hope you find this resource valuable!</p>
 
 
